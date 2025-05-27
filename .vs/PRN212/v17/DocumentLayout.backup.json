@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\OOP1\\OOP1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OOP1\\OOP1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\OOP1\\OOP1\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OOP1\\OOP1\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\OOP1\\OOP1\\OOP1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OOP1\\OOP1\\OOP1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02485F4-96D1-49EB-BB22-581CAB0A2B0B}|CallByReferentce\\CallByReferentce.csproj|d:\\semester_5\\prn212\\thaykhanh\\prn212\\callbyreferentce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02485F4-96D1-49EB-BB22-581CAB0A2B0B}|CallByReferentce\\CallByReferentce.csproj|solutionrelative:callbyreferentce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D13F4E-166F-4409-81DE-F7EC1502C804}|NestedLoop\\NestedLoop.csproj|d:\\semester_5\\prn212\\thaykhanh\\prn212\\nestedloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D13F4E-166F-4409-81DE-F7EC1502C804}|NestedLoop\\NestedLoop.csproj|solutionrelative:nestedloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C81B317-7F9F-4383-839C-185FF877CD79}|SortArray\\SortArray.csproj|d:\\semester_5\\prn212\\thaykhanh\\prn212\\sortarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C81B317-7F9F-4383-839C-185FF877CD79}|SortArray\\SortArray.csproj|solutionrelative:sortarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\CallByReferentce\\Program.cs",
+              "RelativeDocumentMoniker": "CallByReferentce\\Program.cs",
+              "ToolTip": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\CallByReferentce\\Program.cs",
+              "RelativeToolTip": "CallByReferentce\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T04:04:39.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\OOP1\\OOP1\\Employee.cs",
+              "RelativeDocumentMoniker": "OOP1\\OOP1\\Employee.cs",
+              "ToolTip": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\OOP1\\OOP1\\Employee.cs",
+              "RelativeToolTip": "OOP1\\OOP1\\Employee.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:59:28.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\OOP1\\OOP1\\Program.cs",
+              "RelativeDocumentMoniker": "OOP1\\OOP1\\Program.cs",
+              "ToolTip": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\OOP1\\OOP1\\Program.cs",
+              "RelativeToolTip": "OOP1\\OOP1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:58:53.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OOP1.csproj",
+              "DocumentMoniker": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\OOP1\\OOP1\\OOP1.csproj",
+              "RelativeDocumentMoniker": "OOP1\\OOP1\\OOP1.csproj",
+              "ToolTip": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\OOP1\\OOP1\\OOP1.csproj",
+              "RelativeToolTip": "OOP1\\OOP1\\OOP1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T03:58:49.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\NestedLoop\\Program.cs",
+              "RelativeDocumentMoniker": "NestedLoop\\Program.cs",
+              "ToolTip": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\NestedLoop\\Program.cs",
+              "RelativeToolTip": "NestedLoop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:34:34.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\SortArray\\Program.cs",
+              "RelativeDocumentMoniker": "SortArray\\Program.cs",
+              "ToolTip": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\SortArray\\Program.cs",
+              "RelativeToolTip": "SortArray\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:59:14.509Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

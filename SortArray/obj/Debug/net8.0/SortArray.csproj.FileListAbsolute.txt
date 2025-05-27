@@ -1,0 +1,14 @@
+D:\Semester_5\prn212\ThayKhanh\PRN212\SortArray\bin\Debug\net8.0\SortArray.exe
+D:\Semester_5\prn212\ThayKhanh\PRN212\SortArray\bin\Debug\net8.0\SortArray.deps.json
+D:\Semester_5\prn212\ThayKhanh\PRN212\SortArray\bin\Debug\net8.0\SortArray.runtimeconfig.json
+D:\Semester_5\prn212\ThayKhanh\PRN212\SortArray\bin\Debug\net8.0\SortArray.dll
+D:\Semester_5\prn212\ThayKhanh\PRN212\SortArray\bin\Debug\net8.0\SortArray.pdb
+D:\Semester_5\prn212\ThayKhanh\PRN212\SortArray\obj\Debug\net8.0\SortArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester_5\prn212\ThayKhanh\PRN212\SortArray\obj\Debug\net8.0\SortArray.AssemblyInfoInputs.cache
+D:\Semester_5\prn212\ThayKhanh\PRN212\SortArray\obj\Debug\net8.0\SortArray.AssemblyInfo.cs
+D:\Semester_5\prn212\ThayKhanh\PRN212\SortArray\obj\Debug\net8.0\SortArray.csproj.CoreCompileInputs.cache
+D:\Semester_5\prn212\ThayKhanh\PRN212\SortArray\obj\Debug\net8.0\SortArray.dll
+D:\Semester_5\prn212\ThayKhanh\PRN212\SortArray\obj\Debug\net8.0\refint\SortArray.dll
+D:\Semester_5\prn212\ThayKhanh\PRN212\SortArray\obj\Debug\net8.0\SortArray.pdb
+D:\Semester_5\prn212\ThayKhanh\PRN212\SortArray\obj\Debug\net8.0\SortArray.genruntimeconfig.cache
+D:\Semester_5\prn212\ThayKhanh\PRN212\SortArray\obj\Debug\net8.0\ref\SortArray.dll

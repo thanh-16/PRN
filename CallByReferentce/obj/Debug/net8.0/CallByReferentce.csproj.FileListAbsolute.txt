@@ -1,0 +1,14 @@
+D:\Semester_5\prn212\ThayKhanh\PRN212\CallByReferentce\bin\Debug\net8.0\CallByReferentce.exe
+D:\Semester_5\prn212\ThayKhanh\PRN212\CallByReferentce\bin\Debug\net8.0\CallByReferentce.deps.json
+D:\Semester_5\prn212\ThayKhanh\PRN212\CallByReferentce\bin\Debug\net8.0\CallByReferentce.runtimeconfig.json
+D:\Semester_5\prn212\ThayKhanh\PRN212\CallByReferentce\bin\Debug\net8.0\CallByReferentce.dll
+D:\Semester_5\prn212\ThayKhanh\PRN212\CallByReferentce\bin\Debug\net8.0\CallByReferentce.pdb
+D:\Semester_5\prn212\ThayKhanh\PRN212\CallByReferentce\obj\Debug\net8.0\CallByReferentce.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester_5\prn212\ThayKhanh\PRN212\CallByReferentce\obj\Debug\net8.0\CallByReferentce.AssemblyInfoInputs.cache
+D:\Semester_5\prn212\ThayKhanh\PRN212\CallByReferentce\obj\Debug\net8.0\CallByReferentce.AssemblyInfo.cs
+D:\Semester_5\prn212\ThayKhanh\PRN212\CallByReferentce\obj\Debug\net8.0\CallByReferentce.csproj.CoreCompileInputs.cache
+D:\Semester_5\prn212\ThayKhanh\PRN212\CallByReferentce\obj\Debug\net8.0\CallByReferentce.dll
+D:\Semester_5\prn212\ThayKhanh\PRN212\CallByReferentce\obj\Debug\net8.0\refint\CallByReferentce.dll
+D:\Semester_5\prn212\ThayKhanh\PRN212\CallByReferentce\obj\Debug\net8.0\CallByReferentce.pdb
+D:\Semester_5\prn212\ThayKhanh\PRN212\CallByReferentce\obj\Debug\net8.0\CallByReferentce.genruntimeconfig.cache
+D:\Semester_5\prn212\ThayKhanh\PRN212\CallByReferentce\obj\Debug\net8.0\ref\CallByReferentce.dll

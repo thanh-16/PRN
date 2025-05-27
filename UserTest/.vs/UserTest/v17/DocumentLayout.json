@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\UserTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B71324A-2A65-4072-9706-DEF51B160928}|UserTest\\UserTest.csproj|d:\\semester_5\\prn212\\thaykhanh\\prn212\\usertest\\usertest\\test\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B71324A-2A65-4072-9706-DEF51B160928}|UserTest\\UserTest.csproj|solutionrelative:usertest\\test\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B71324A-2A65-4072-9706-DEF51B160928}|UserTest\\UserTest.csproj|d:\\semester_5\\prn212\\thaykhanh\\prn212\\usertest\\usertest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B71324A-2A65-4072-9706-DEF51B160928}|UserTest\\UserTest.csproj|solutionrelative:usertest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B71324A-2A65-4072-9706-DEF51B160928}|UserTest\\UserTest.csproj|d:\\semester_5\\prn212\\thaykhanh\\prn212\\usertest\\usertest\\usertest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B71324A-2A65-4072-9706-DEF51B160928}|UserTest\\UserTest.csproj|solutionrelative:usertest\\usertest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\UserTest\\UserTest\\Test\\Test.cs",
+              "RelativeDocumentMoniker": "UserTest\\Test\\Test.cs",
+              "ToolTip": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\UserTest\\UserTest\\Test\\Test.cs",
+              "RelativeToolTip": "UserTest\\Test\\Test.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:36:37.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserTest",
+              "DocumentMoniker": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\UserTest\\UserTest\\UserTest.csproj",
+              "RelativeDocumentMoniker": "UserTest\\UserTest.csproj",
+              "ToolTip": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\UserTest\\UserTest\\UserTest.csproj",
+              "RelativeToolTip": "UserTest\\UserTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-26T01:33:53.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\UserTest\\UserTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UserTest\\UnitTest1.cs",
+              "ToolTip": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\UserTest\\UserTest\\UnitTest1.cs",
+              "RelativeToolTip": "UserTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAywAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:32:49.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

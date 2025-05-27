@@ -1,0 +1,14 @@
+D:\Semester_5\prn212\ThayKhanh\PRN212\TuplesCricle\bin\Debug\net8.0\TuplesSample.exe
+D:\Semester_5\prn212\ThayKhanh\PRN212\TuplesCricle\bin\Debug\net8.0\TuplesSample.deps.json
+D:\Semester_5\prn212\ThayKhanh\PRN212\TuplesCricle\bin\Debug\net8.0\TuplesSample.runtimeconfig.json
+D:\Semester_5\prn212\ThayKhanh\PRN212\TuplesCricle\bin\Debug\net8.0\TuplesSample.dll
+D:\Semester_5\prn212\ThayKhanh\PRN212\TuplesCricle\bin\Debug\net8.0\TuplesSample.pdb
+D:\Semester_5\prn212\ThayKhanh\PRN212\TuplesCricle\obj\Debug\net8.0\TuplesSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester_5\prn212\ThayKhanh\PRN212\TuplesCricle\obj\Debug\net8.0\TuplesSample.AssemblyInfoInputs.cache
+D:\Semester_5\prn212\ThayKhanh\PRN212\TuplesCricle\obj\Debug\net8.0\TuplesSample.AssemblyInfo.cs
+D:\Semester_5\prn212\ThayKhanh\PRN212\TuplesCricle\obj\Debug\net8.0\TuplesSample.csproj.CoreCompileInputs.cache
+D:\Semester_5\prn212\ThayKhanh\PRN212\TuplesCricle\obj\Debug\net8.0\TuplesSample.dll
+D:\Semester_5\prn212\ThayKhanh\PRN212\TuplesCricle\obj\Debug\net8.0\refint\TuplesSample.dll
+D:\Semester_5\prn212\ThayKhanh\PRN212\TuplesCricle\obj\Debug\net8.0\TuplesSample.pdb
+D:\Semester_5\prn212\ThayKhanh\PRN212\TuplesCricle\obj\Debug\net8.0\TuplesSample.genruntimeconfig.cache
+D:\Semester_5\prn212\ThayKhanh\PRN212\TuplesCricle\obj\Debug\net8.0\ref\TuplesSample.dll

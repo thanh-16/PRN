@@ -1,0 +1,14 @@
+D:\Semester_5\prn212\ThayKhanh\PRN212\Interpolation\bin\Debug\net8.0\Interpolation.exe
+D:\Semester_5\prn212\ThayKhanh\PRN212\Interpolation\bin\Debug\net8.0\Interpolation.deps.json
+D:\Semester_5\prn212\ThayKhanh\PRN212\Interpolation\bin\Debug\net8.0\Interpolation.runtimeconfig.json
+D:\Semester_5\prn212\ThayKhanh\PRN212\Interpolation\bin\Debug\net8.0\Interpolation.dll
+D:\Semester_5\prn212\ThayKhanh\PRN212\Interpolation\bin\Debug\net8.0\Interpolation.pdb
+D:\Semester_5\prn212\ThayKhanh\PRN212\Interpolation\obj\Debug\net8.0\Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester_5\prn212\ThayKhanh\PRN212\Interpolation\obj\Debug\net8.0\Interpolation.AssemblyInfoInputs.cache
+D:\Semester_5\prn212\ThayKhanh\PRN212\Interpolation\obj\Debug\net8.0\Interpolation.AssemblyInfo.cs
+D:\Semester_5\prn212\ThayKhanh\PRN212\Interpolation\obj\Debug\net8.0\Interpolation.csproj.CoreCompileInputs.cache
+D:\Semester_5\prn212\ThayKhanh\PRN212\Interpolation\obj\Debug\net8.0\Interpolation.dll
+D:\Semester_5\prn212\ThayKhanh\PRN212\Interpolation\obj\Debug\net8.0\refint\Interpolation.dll
+D:\Semester_5\prn212\ThayKhanh\PRN212\Interpolation\obj\Debug\net8.0\Interpolation.pdb
+D:\Semester_5\prn212\ThayKhanh\PRN212\Interpolation\obj\Debug\net8.0\Interpolation.genruntimeconfig.cache
+D:\Semester_5\prn212\ThayKhanh\PRN212\Interpolation\obj\Debug\net8.0\ref\Interpolation.dll

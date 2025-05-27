@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\OOP1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EDF782-94B8-4877-8098-E4EB9D41F755}|OOP1\\OOP1.csproj|d:\\semester_5\\prn212\\thaykhanh\\prn212\\oop1\\oop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EDF782-94B8-4877-8098-E4EB9D41F755}|OOP1\\OOP1.csproj|solutionrelative:oop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EDF782-94B8-4877-8098-E4EB9D41F755}|OOP1\\OOP1.csproj|d:\\semester_5\\prn212\\thaykhanh\\prn212\\oop1\\oop1\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EDF782-94B8-4877-8098-E4EB9D41F755}|OOP1\\OOP1.csproj|solutionrelative:oop1\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EDF782-94B8-4877-8098-E4EB9D41F755}|OOP1\\OOP1.csproj|d:\\semester_5\\prn212\\thaykhanh\\prn212\\oop1\\oop1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EDF782-94B8-4877-8098-E4EB9D41F755}|OOP1\\OOP1.csproj|solutionrelative:oop1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\OOP1\\OOP1\\Employee.cs",
+              "RelativeDocumentMoniker": "OOP1\\Employee.cs",
+              "ToolTip": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\OOP1\\OOP1\\Employee.cs",
+              "RelativeToolTip": "OOP1\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:43:04.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\OOP1\\OOP1\\Category.cs",
+              "RelativeDocumentMoniker": "OOP1\\Category.cs",
+              "ToolTip": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\OOP1\\OOP1\\Category.cs",
+              "RelativeToolTip": "OOP1\\Category.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:39:17.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\OOP1\\OOP1\\Program.cs",
+              "RelativeDocumentMoniker": "OOP1\\Program.cs",
+              "ToolTip": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\OOP1\\OOP1\\Program.cs",
+              "RelativeToolTip": "OOP1\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:37:20.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

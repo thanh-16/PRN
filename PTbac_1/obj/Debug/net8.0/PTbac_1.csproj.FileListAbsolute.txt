@@ -1,0 +1,14 @@
+D:\Semester_5\prn212\ThayKhanh\PRN212\PTbac_1\bin\Debug\net8.0\PTbac_1.exe
+D:\Semester_5\prn212\ThayKhanh\PRN212\PTbac_1\bin\Debug\net8.0\PTbac_1.deps.json
+D:\Semester_5\prn212\ThayKhanh\PRN212\PTbac_1\bin\Debug\net8.0\PTbac_1.runtimeconfig.json
+D:\Semester_5\prn212\ThayKhanh\PRN212\PTbac_1\bin\Debug\net8.0\PTbac_1.dll
+D:\Semester_5\prn212\ThayKhanh\PRN212\PTbac_1\bin\Debug\net8.0\PTbac_1.pdb
+D:\Semester_5\prn212\ThayKhanh\PRN212\PTbac_1\obj\Debug\net8.0\PTbac_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester_5\prn212\ThayKhanh\PRN212\PTbac_1\obj\Debug\net8.0\PTbac_1.AssemblyInfoInputs.cache
+D:\Semester_5\prn212\ThayKhanh\PRN212\PTbac_1\obj\Debug\net8.0\PTbac_1.AssemblyInfo.cs
+D:\Semester_5\prn212\ThayKhanh\PRN212\PTbac_1\obj\Debug\net8.0\PTbac_1.csproj.CoreCompileInputs.cache
+D:\Semester_5\prn212\ThayKhanh\PRN212\PTbac_1\obj\Debug\net8.0\PTbac_1.dll
+D:\Semester_5\prn212\ThayKhanh\PRN212\PTbac_1\obj\Debug\net8.0\refint\PTbac_1.dll
+D:\Semester_5\prn212\ThayKhanh\PRN212\PTbac_1\obj\Debug\net8.0\PTbac_1.pdb
+D:\Semester_5\prn212\ThayKhanh\PRN212\PTbac_1\obj\Debug\net8.0\PTbac_1.genruntimeconfig.cache
+D:\Semester_5\prn212\ThayKhanh\PRN212\PTbac_1\obj\Debug\net8.0\ref\PTbac_1.dll
