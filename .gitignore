@@ -1,0 +1,20 @@
+# Bỏ qua database SQL Server
+*.mdf
+*.ldf
+
+# Bỏ qua file log
+*.log
+
+# Bỏ qua thư mục build của Visual Studio / .NET (nếu có)
+bin/
+obj/
+
+# Bỏ qua file tạm và cache
+*.tmp
+*.cache
+
+# Bỏ qua thư mục ẩn của VS Code hoặc hệ thống
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
