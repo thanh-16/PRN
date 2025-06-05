@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\ProductManagementDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3ACD5D0-8EC3-4611-A2DF-91A5FFDAFE0C}|DataAccessLayer\\DataAccessLayer.csproj|d:\\semester_5\\prn212\\thaykhanh\\prn212\\productmanagementdemo\\dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3ACD5D0-8EC3-4611-A2DF-91A5FFDAFE0C}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3ACD5D0-8EC3-4611-A2DF-91A5FFDAFE0C}|DataAccessLayer\\DataAccessLayer.csproj|d:\\semester_5\\prn212\\thaykhanh\\prn212\\productmanagementdemo\\dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3ACD5D0-8EC3-4611-A2DF-91A5FFDAFE0C}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3ACD5D0-8EC3-4611-A2DF-91A5FFDAFE0C}|DataAccessLayer\\DataAccessLayer.csproj|d:\\semester_5\\prn212\\thaykhanh\\prn212\\productmanagementdemo\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3ACD5D0-8EC3-4611-A2DF-91A5FFDAFE0C}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3ACD5D0-8EC3-4611-A2DF-91A5FFDAFE0C}|DataAccessLayer\\DataAccessLayer.csproj|d:\\semester_5\\prn212\\thaykhanh\\prn212\\productmanagementdemo\\dataaccesslayer\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3ACD5D0-8EC3-4611-A2DF-91A5FFDAFE0C}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{987A4B76-824B-4BAF-A457-8B983386A696}|BusinessObjects\\BusinessObjects.csproj|d:\\semester_5\\prn212\\thaykhanh\\prn212\\productmanagementdemo\\businessobjects\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{987A4B76-824B-4BAF-A457-8B983386A696}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{987A4B76-824B-4BAF-A457-8B983386A696}|BusinessObjects\\BusinessObjects.csproj|d:\\semester_5\\prn212\\thaykhanh\\prn212\\productmanagementdemo\\businessobjects\\businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{987A4B76-824B-4BAF-A457-8B983386A696}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{987A4B76-824B-4BAF-A457-8B983386A696}|BusinessObjects\\BusinessObjects.csproj|d:\\semester_5\\prn212\\thaykhanh\\prn212\\productmanagementdemo\\businessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{987A4B76-824B-4BAF-A457-8B983386A696}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AC72DC-B823-4550-ABB6-44B0469CE4DD}|ProductManagement\\ProductManagement.csproj|d:\\semester_5\\prn212\\thaykhanh\\prn212\\productmanagementdemo\\productmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3AC72DC-B823-4550-ABB6-44B0469CE4DD}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AC72DC-B823-4550-ABB6-44B0469CE4DD}|ProductManagement\\ProductManagement.csproj|d:\\semester_5\\prn212\\thaykhanh\\prn212\\productmanagementdemo\\productmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AC72DC-B823-4550-ABB6-44B0469CE4DD}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505058AE-EC60-47A4-9FE4-EBCE33BB01C8}|Services\\Services.csproj|d:\\semester_5\\prn212\\thaykhanh\\prn212\\productmanagementdemo\\services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505058AE-EC60-47A4-9FE4-EBCE33BB01C8}|Services\\Services.csproj|solutionrelative:services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A4A91-69BA-433F-A7FF-98E2417EE434}|Repositories\\Repositories.csproj|d:\\semester_5\\prn212\\thaykhanh\\prn212\\productmanagementdemo\\repositories\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05A4A91-69BA-433F-A7FF-98E2417EE434}|Repositories\\Repositories.csproj|solutionrelative:repositories\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\ProductManagementDemo\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CategoryDAO.cs",
+              "ToolTip": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\ProductManagementDemo\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CategoryDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:46:39.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\ProductManagementDemo\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ProductDAO.cs",
+              "ToolTip": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\ProductManagementDemo\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\ProductDAO.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowEAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:44:23.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccessLayer.csproj",
+              "DocumentMoniker": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\ProductManagementDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T19:42:33.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyStoreContext.cs",
+              "DocumentMoniker": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\ProductManagementDemo\\DataAccessLayer\\MyStoreContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\MyStoreContext.cs",
+              "ToolTip": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\ProductManagementDemo\\DataAccessLayer\\MyStoreContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\MyStoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:38:00.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyStoreContext.cs",
+              "DocumentMoniker": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\ProductManagementDemo\\BusinessObjects\\MyStoreContext.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\MyStoreContext.cs",
+              "ToolTip": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\ProductManagementDemo\\BusinessObjects\\MyStoreContext.cs",
+              "RelativeToolTip": "BusinessObjects\\MyStoreContext.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:22:17.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountMember.cs",
+              "DocumentMoniker": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\ProductManagementDemo\\BusinessObjects\\AccountMember.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\AccountMember.cs",
+              "ToolTip": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\ProductManagementDemo\\BusinessObjects\\AccountMember.cs",
+              "RelativeToolTip": "BusinessObjects\\AccountMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:20:32.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BusinessObjects.csproj",
+              "DocumentMoniker": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
+              "RelativeDocumentMoniker": "BusinessObjects\\BusinessObjects.csproj",
+              "ToolTip": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
+              "RelativeToolTip": "BusinessObjects\\BusinessObjects.csproj",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T18:52:57.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\ProductManagementDemo\\ProductManagement\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ProductManagement\\MainWindow.xaml",
+              "ToolTip": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\ProductManagementDemo\\ProductManagement\\MainWindow.xaml",
+              "RelativeToolTip": "ProductManagement\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T18:51:48.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\ProductManagementDemo\\ProductManagement\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\ProductManagementDemo\\ProductManagement\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ProductManagement\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:51:48.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\ProductManagementDemo\\Services\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Class1.cs",
+              "ToolTip": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\ProductManagementDemo\\Services\\Class1.cs",
+              "RelativeToolTip": "Services\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:50:44.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\ProductManagementDemo\\Repositories\\Class1.cs",
+              "RelativeDocumentMoniker": "Repositories\\Class1.cs",
+              "ToolTip": "D:\\Semester_5\\prn212\\ThayKhanh\\PRN212\\ProductManagementDemo\\Repositories\\Class1.cs",
+              "RelativeToolTip": "Repositories\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:50:30.635Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
